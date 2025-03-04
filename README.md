@@ -1,6 +1,23 @@
 # OpenRAN-based Traffic Steering
 Welcome to the UCLAB Open-RAN repository!
 
+<img 
+  src="https://img.shields.io/github/stars/UCLAB-Git/CAU-UCLAB-OpenRAN?style=social" 
+  alt="GitHub stars"
+  width="120"
+/>
+<img 
+  src="https://img.shields.io/github/watchers/UCLAB-Git/CAU-UCLAB-OpenRAN?style=social" 
+  alt="GitHub stars"
+  width="120"
+/>
+
+<img 
+  src="https://img.shields.io/github/license/UCLAB-Git/CAU-UCLAB-OpenRAN?style=social" 
+  alt="GitHub stars"
+  width="120"
+/>
+
 ## Overview
 This repository provides a sample implementation of **traffic steering** based on **Open-RAN** architecture.  
 The goal is to dynamically redistribute network traffic across multiple cells (or DUs) to optimize Quality of Service (QoS) and resource utilization.
