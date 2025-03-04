@@ -22,3 +22,7 @@ If you want to install the our system, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+3. **Run the example**
+   ```bash
+   python src/example.py
+   ```
